@@ -47,9 +47,7 @@ With over 13 years of experience in data engineering and solution design, I spec
 
 ## Daily Dev Stats
 
-```
 <a href="https://app.daily.dev/smokinguns47"><img src="https://api.daily.dev/devcards/v2/eE7hfVlRXjTv7mWhBD6GQ.png?type=wide&r=pjl" width="652" alt="Raja Sekhar R Gajjala's Dev Card"/></a>
-```
 
 ---
 
