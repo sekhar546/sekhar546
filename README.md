@@ -45,6 +45,12 @@ With over 13 years of experience in data engineering and solution design, I spec
 
 ---
 
+## Roadmap Stats
+
+[![roadmap.sh](https://roadmap.sh/card/wide/678d85c598c00f7117529a84?variant=dark)](https://roadmap.sh)
+
+---
+
 ## Contact
 
 - **Email:** [shekhar.rj@outlook.com](mailto:shekhar.rj@outlook.com)
