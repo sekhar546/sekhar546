@@ -12,6 +12,9 @@ function Home() {
         <a href="https://github.com/sekhar546" target="_blank" rel="noopener noreferrer">
           <i className="fab fa-github"></i> GitHub
         </a>
+        <a href="https://calendly.com/sekhar546/30min" target="_blank" rel="noopener noreferrer">
+          <i className="far fa-calendar-alt"></i> Schedule a Chat
+        </a>
       </div>
       <p className="contact-info">
         <strong>Phone:</strong> +1 (437) 322 - 9719 |
