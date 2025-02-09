@@ -2,16 +2,20 @@ import React from 'react';
 
 function Home() {
   return (
-    <div>
+    <div className="home">
       <h1>Raja Sekhar Reddy Gajjala</h1>
-      <p><strong>Lead Data Engineer</strong></p>
-      <p><strong>Phone:</strong> +1 (437) 322 - 9719</p>
-      <p><strong>Email:</strong> <a href="mailto:shekhar.rj@outlook.com">shekhar.rj@outlook.com</a>, <a href="mailto:shekhar.rj@gmail.com">shekhar.rj@gmail.com</a></p>
-      <p>
-        <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/sekhar546/">linkedin.com/in/sekhar546</a>
-      </p>
-      <p>
-        <strong>GitHub:</strong> <a href="https://github.com/sekhar546">github.com/sekhar546</a>
+      <h2>Lead Data Engineer</h2>
+      <div className="social-links">
+        <a href="https://www.linkedin.com/in/sekhar546/" target="_blank" rel="noopener noreferrer">
+          <i className="fab fa-linkedin"></i> LinkedIn
+        </a>
+        <a href="https://github.com/sekhar546" target="_blank" rel="noopener noreferrer">
+          <i className="fab fa-github"></i> GitHub
+        </a>
+      </div>
+      <p className="contact-info">
+        <strong>Phone:</strong> +1 (437) 322 - 9719 |
+        <strong>Email:</strong> <a href="mailto:shekhar.rj@outlook.com">shekhar.rj@outlook.com</a>, <a href="mailto:shekhar.rj@gmail.com">shekhar.rj@gmail.com</a>
       </p>
       <h2>About Me</h2>
       <p>
