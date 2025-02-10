@@ -1,30 +1,44 @@
 import React from 'react';
+import styled from 'styled-components';
+
+const SkillsContainer = styled.div`
+  padding: 20px;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+`;
+
+const Title = styled.h2`
+  color: #333;
+`;
+
+const SkillsList = styled.ul`
+  list-style: none;
+  padding: 0;
+`;
+
+const SkillItem = styled.li`
+  color: #666;
+  padding: 8px 0;
+`;
 
 function Skills() {
   return (
-    <div className="skills">
-      <h1>Skills</h1>
-      <ul>
-        <li>SQL</li>
-        <li>Python - PySpark</li>
-        <li>AWS (EMR, EC2, Glue, Lambda, Stepfunctions, SNS, S3, Redshift, Athena)</li>
-        <li>Hadoop (HDFS, Hive)</li>
-        <li>Talend ETL Tool</li>
-        <li>Tableau</li>
-        <li>Power BI</li>
-        <li>SAP Crystal Reports</li>
-        <li>Git</li>
-        <li>Agile Methodologies</li>
-        {/* Suggested additions: */}
-        <li>Data Modeling</li>
-        <li>Data Warehousing</li>
-        <li>ETL Development</li>
-        <li>Cloud Computing</li>
-        <li>Data Analysis</li>
-        <li>Machine Learning (Optional)</li>
-        <li>DevOps Practices</li>
-      </ul>
-    </div>
+    <SkillsContainer>
+      <Title>Skills</Title>
+      <SkillsList>
+        <SkillItem>SQL</SkillItem>
+        <SkillItem>Python - PySpark</SkillItem>
+        <SkillItem>AWS (EMR, EC2, Glue, Lambda, Stepfunctions, SNS, S3, Redshift, Athena)</SkillItem>
+        <SkillItem>Hadoop (HDFS, Hive)</SkillItem>
+        <SkillItem>Talend ETL Tool</SkillItem>
+        <SkillItem>Tableau</SkillItem>
+        <SkillItem>Power BI</SkillItem>
+        <SkillItem>SAP Crystal Reports</SkillItem>
+        <SkillItem>Git</SkillItem>
+        <SkillItem>Agile Methodologies</SkillItem>
+      </SkillsList>
+    </SkillsContainer>
   );
 }
 
