@@ -1,9 +1,12 @@
-# Raja Sekhar R Gajjala
+# Raja Sekhar Reddy Gajjala
+
 
 **Lead Data Engineer | Architect of Scalable Data Solutions | AWS | PySpark | Snowflake | Databricks | AI/ML Innovation | $50K/Mo Cost Savings**
 
+[![Email](https://img.shields.io/badge/Email-shekhar.rj@outlook.com-0078D4?logo=microsoft-outlook)](mailto:shekhar.rj@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/sekhar546/)
 [![GitHub](https://img.shields.io/badge/-Explore%20My%20Code-181717?logo=github)](https://github.com/sekhar546)
+[![Calendar](https://img.shields.io/badge/Schedule%20Chat-Book%20Meeting-008272?logo=google-chat)](https://calendly.com/sekhar546/30min)
 [![Visitors](https://komarev.com/ghpvc/?username=sekhar546&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/sekhar546)
 
 ---
@@ -19,12 +22,14 @@ Lead Data Engineer with 13+ years of expertise in architecting and delivering hi
 ### Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
 
 ### Data Engineering
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apache-spark&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?logo=apache-hadoop&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-E91E63?logo=databricks&logoColor=white)
 
 ### Visualization & ETL
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
@@ -34,6 +39,7 @@ Lead Data Engineer with 13+ years of expertise in architecting and delivering hi
 ### DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ---
 
@@ -97,15 +103,3 @@ Lead Data Engineer with 13+ years of expertise in architecting and delivering hi
 [![roadmap.sh](https://roadmap.sh/card/wide/678d85c598c00f7117529a84?variant=dark)](https://roadmap.sh)
 
 *Current focus: Scaling MLOps pipelines and real-time data systems*
-
----
-
-## Contact & Connect
-
-[![Email](https://img.shields.io/badge/Email-shekhar.rj@outlook.com-0078D4?logo=microsoft-outlook)](mailto:shekhar.rj@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?logo=linkedin)](https://www.linkedin.com/in/sekhar546/)
-[![Calendar](https://img.shields.io/badge/Schedule%20Chat-Book%20Meeting-008272?logo=google-chat)](https://calendly.com/sekhar546/30min)
-
----
-
-*Let's connect and collaborate on innovative data engineering solutions!*
