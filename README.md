@@ -1,7 +1,7 @@
 # Raja Sekhar Reddy Gajjala
 
 
-**Lead Data Engineer | Architect of Scalable Data Solutions | AWS | PySpark | Snowflake | Databricks | AI/ML Innovation | $50K/Mo Cost Savings**
+**Lead Data Engineer | Architect of Scalable Data Solutions | AWS | Azure | PySpark | Snowflake | Databricks | AI/ML Innovation | $50K/Mo Cost Savings**
 
 [![Email](https://img.shields.io/badge/Email-shekhar.rj@outlook.com-0078D4?logo=microsoft-outlook)](mailto:shekhar.rj@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/sekhar546/)
