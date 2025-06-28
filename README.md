@@ -13,7 +13,18 @@
 
 ## About Me
 
-Lead Data Engineer with 13+ years of expertise in architecting and delivering high-impact data solutions for complex business challenges. Proven ability to lead cross-functional teams in designing and implementing scalable data pipelines, optimizing cloud infrastructure, and driving data-driven decision-making. Adept at leveraging cutting-edge technologies such as AWS, Hadoop, PySpark, SnowFlake, and Databricks to deliver robust, cost-effective, and high-performance data ecosystems. Recognized for reducing operational costs by $50K/month, improving system reliability, and enabling business growth through innovative data strategies. Currently expanding expertise in AI/ML concepts to drive predictive analytics and intelligent automation. A strategic thinker with strong leadership, Agile, and DevOps practices, committed to transforming raw data into actionable insights.
+- Technology Lead – Data Engineering with 13+ years of international experience delivering high-impact data solutions for complex business challenges in healthcare and insurance domains.
+- Proven expertise in architecting and implementing scalable data pipelines, optimizing cloud infrastructure, and data-driven decision-making using AWS, Azure, PySpark, Snowflake, Databricks, Hadoop, and Git.
+- Successfully deployed onshore in the United States for over two years with Optum Global Solutions, collaborating directly with US clients to deliver mission-critical healthcare data projects and ensuring alignment with North American business standards.
+- Recognized for delivering robust, cost-effective, and high-performance data ecosystems, achieving operational cost reductions of $50K/month and improving system reliability and business growth.
+- Expanded expertise in modern data platforms by independently learning Databricks (unified analytics and data engineering), Apache Iceberg tables and Snowflake (cloud-native data warehousing), gaining hands-on experience with their core features, architectures, and best practices for analytics and ETL.
+- Demonstrated leadership in managing cross-functional teams, mentoring junior engineers, and fostering a culture of continuous learning, innovation, and Agile best practices.
+- Acquired proficiency in DuckDB and Astral UV for Python, enhancing capabilities in lightweight analytics and high-performance asynchronous programming.
+- Gained exposure with AI technologies, including deploying and running large language models (LLMs) such as DeepSeek, Mistral, Gemma, and Phi-4 locally using Ollama, and interacting with them via Open WebUI.
+- Automated tasks and workflows by integrating n8n with AI LLMs, streamlining processes and enabling scalable automation.
+- Undergoing advanced Python skills for AI integration, including using Ollama, HuggingFace Transformers, and LangChain to interact programmatically with LLMs and build AI-powered solutions.
+- Experienced in end-to-end ETL development, cloud cost optimization, and advanced reporting using Talend, Crystal Reports, Tableau, Power BI, and SQL.
+- Strategic thinker with strong leadership, Agile, and DevOps skills, committed to transforming raw data into actionable business insights for multi-national organizations.
 
 ---
 
@@ -21,20 +32,26 @@ Lead Data Engineer with 13+ years of expertise in architecting and delivering hi
 
 ### Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-E91E63?logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
 
-### Data Engineering
+### Languages & Frameworks
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apache-spark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?logo=apache-hadoop&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-E91E63?logo=databricks&logoColor=white)
+
+### Data Engineering
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?logo=apache-hadoop&logoColor=black)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?logo=apache-airflow&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-DD3333?logo=duckdb&logoColor=white)
+![Astral UV](https://img.shields.io/badge/Astral_UV-663399?logo=python&logoColor=white)
+![Apache Iceberg](https://img.shields.io/badge/Apache_Iceberg-0078D4?logo=apache&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
 
 ### Visualization & ETL
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 ![Talend](https://img.shields.io/badge/Talend-FF6D70?logo=talend&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
 
 ### DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
@@ -47,13 +64,20 @@ Lead Data Engineer with 13+ years of expertise in architecting and delivering hi
 
 **ValueMomentum (November 2020 - June 2024)**
 - Architected and implemented a fully automated data pipeline integrating upstream and downstream systems (SnowFlake) using AWS Lambda, PySpark, and EMR, eliminating manual interventions and improving operational efficiency by 40%.
-- Pioneered cost optimization strategies by leveraging spot instances, graviton processors, and managed scaling, resulting in monthly savings of $50K while maintaining high system performance.
+- Proposed the implementation of Databricks within the project and conducted in-depth research on integrating Apache Iceberg tables, evaluating their compatibility with the existing architecture. Documented the advantages—such as support for open table formats, ACID transactions, schema and partition evolution, and vendor neutrality—and potential challenges to inform decision-making on adopting these technologies.
+- Designed and implemented ETL workflows to extract, transform, and load data from S3 into AWS Redshift, enabling high-performance analytics and reporting for business stakeholders.
+- Built reusable PySpark modules and Python frameworks for data validation, quality assurance, and transformation, supporting evolving business requirements and ensuring data integrity.
+- Leveraged AWS Athena to enable ad hoc querying and rapid data exploration directly on S3-stored datasets, reducing time-to-insight for data analysts and business users.
+- Automated data ingestion and transformation processes using AWS Glue, integrating data from multiple sources into Redshift and S3, and orchestrated workflows with Airflow for reliability and transparency.
+- Pioneered cost optimization strategies by leveraging spot instances, graviton processors, and managed scaling, optimized Redshift clusters for performance and cost, including workload management, partitioning, and data distribution strategies, resulting in a 30% reduction in query latency resulting in monthly savings of $50K while maintaining high system performance.
 - Revolutionized Spark processing efficiency by optimizing driver memory configurations in EMR clusters, reducing job failure rates to an industry-leading 0.05% and ensuring seamless data processing.
-- Re-engineered the ETL architecture within the Hadoop ecosystem, achieving significant improvements in performance through advanced time and space complexity optimizations.
-- Transformed commission payout dashboards for insurance agents, enabling real-time review of omissions and target planning, which directly contributed to a 15% increase in customer business revenue.
-- Spearheaded the onboarding and upskilling of new team members, providing hands-on training in AWS, PySpark, SnowFlake, and Hadoop, enabling them to contribute to high-impact projects within weeks.
-- Mentored junior engineers in best practices for ETL pipeline development, cloud cost optimization, and Agile methodologies, fostering a culture of continuous learning and innovation.
-- Developed and delivered customized training programs on Spark memory optimization, AWS Glue, and Talend ETL, equipping the team with advanced skills to tackle complex data engineering challenges.
+- Developed automated data ingestion and transformation pipelines, leveraging PySpark for distributed processing and AWS Glue for orchestration, with outputs stored in S3 and loaded into Redshift for high-performance analytics.
+- Re-engineered the data pipeline architecture within the Azure cloud ecosystem with Python - PySpark, achieving significant improvements in performance through advanced time and space complexity optimizations.
+- Developed data access and governance policies leveraging AWS IAM, S3 bucket policies, and Redshift permissions to ensure compliance and data security.
+- Transformed commission payout dashboards in the Azure environment for insurance agents, enabling real-time review of omissions and target planning, which directly contributed to a 15% increase in customer business revenue.
+- Spearheaded the onboarding and upskilling of new team members, providing hands-on training in AWS, PySpark, SnowFlake, and Azure, enabling them to contribute to high-impact projects within weeks.
+- Mentored junior engineers in best practices for data pipeline development, cloud cost optimization, and Agile methodologies, fostering a culture of continuous learning and innovation.
+- Developed and delivered customized training programs on Spark memory optimization, AWS Glue, Databricks, and Snowflake, equipping the team with advanced skills to tackle complex data engineering challenges.
 - Championed knowledge-sharing initiatives by conducting workshops on data architecture design and performance tuning, resulting in a 30% improvement in team productivity.
 - Built a collaborative learning environment by guiding team members through real-world use cases, enabling them to master Lambda functions, EMR clusters, and SnowFlake integrations.
 - Led code version control initiatives by managing the team’s codebase in GitLab, implementing a streamlined branching strategy to reduce merge conflicts and save significant time for the DevOps team.
